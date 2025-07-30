@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travel-Blogs/static/css/main.50eb59bf.css",
+    "main.js": "/Travel-Blogs/static/js/main.ebbb64e0.js",
+    "index.html": "/Travel-Blogs/index.html",
+    "main.50eb59bf.css.map": "/Travel-Blogs/static/css/main.50eb59bf.css.map",
+    "main.ebbb64e0.js.map": "/Travel-Blogs/static/js/main.ebbb64e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50eb59bf.css",
+    "static/js/main.ebbb64e0.js"
+  ]
+}
